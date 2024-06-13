@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "61803580530",
+    "firebase_url": "https://driverapp-65478-default-rtdb.firebaseio.com",
+    "project_id": "driverapp-65478",
+    "storage_bucket": "driverapp-65478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61803580530:android:c8aff72ed997d7cf8c46eb",
+        "android_client_info": {
+          "package_name": "com.example.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61803580530-jvj7b92hacs3n5m5salfk1a9p21r3fqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driverapp",
+            "certificate_hash": "e46d54e9176a4804e0319258a37676caf62f0e76"
+          }
+        },
+        {
+          "client_id": "61803580530-jp9k43ba0nuuo8vrefv1agi02b4qh44a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSguAAYC-9cSIA5uVlH8DNFbTdlQBoHc"
+        },
+        {
+          "current_key": "AIzaSyAUtxf8MB6Zq1eZGwxXJ74WVh4azEbKhwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61803580530-jp9k43ba0nuuo8vrefv1agi02b4qh44a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61803580530:android:0900da6ffd86d5b68c46eb",
+        "android_client_info": {
+          "package_name": "com.example.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61803580530-jp9k43ba0nuuo8vrefv1agi02b4qh44a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSguAAYC-9cSIA5uVlH8DNFbTdlQBoHc"
+        },
+        {
+          "current_key": "AIzaSyAUtxf8MB6Zq1eZGwxXJ74WVh4azEbKhwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61803580530-jp9k43ba0nuuo8vrefv1agi02b4qh44a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61803580530:android:58bf1178e7d3af368c46eb",
+        "android_client_info": {
+          "package_name": "com.example.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61803580530-jp9k43ba0nuuo8vrefv1agi02b4qh44a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSguAAYC-9cSIA5uVlH8DNFbTdlQBoHc"
+        },
+        {
+          "current_key": "AIzaSyAUtxf8MB6Zq1eZGwxXJ74WVh4azEbKhwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61803580530-jp9k43ba0nuuo8vrefv1agi02b4qh44a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
